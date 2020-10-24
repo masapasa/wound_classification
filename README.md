@@ -5,3 +5,8 @@ AZH Wound and Vascular Center in Milwaukee and our Lab (Big Data Analytics and V
 Both entire image and the extracted ROI have been provided for each image in separate folders.
 
 The dataset was used and introduced in the preprint entitled "Multiclass Wound Image Classification using an Ensemble Deep CNN-based Classifier".
+
+## References
+Rostami, Behrouz and Anisuzzaman, DM and Wang, Chuanbo and Gopalakrishnan, Sandeep and Niezgoda, Jeffrey and Yu, Zeyun (2020). 
+Multiclass Wound Image Classification using an Ensemble Deep CNN-based Classifier. 
+arXiv preprint arXiv:2010.09593.
